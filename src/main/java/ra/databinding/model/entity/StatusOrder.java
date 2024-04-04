@@ -1,0 +1,1 @@
+package ra.databinding.model.entity;public enum StatusOrder {    CHO_DUYET,    DA_DUYET,    DA_NHAN}
